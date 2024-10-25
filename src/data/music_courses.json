@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Course Title 1",
+      "slug": "course-title-1",
+      "description": "Description for course 1.",
+      "price": 60.99,
+      "instructor": "Instructor 1",
+      "isFeatured": false,
+      "image": "/courses/course1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Course Title 2",
+      "slug": "course-title-2",
+      "description": "Description for course 2.",
+      "price": 71.98,
+      "instructor": "Instructor 2",
+      "isFeatured": true,
+      "image": "/courses/course2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Course Title 3",
+      "slug": "course-title-3",
+      "description": "Description for course 3.",
+      "price": 82.97,
+      "instructor": "Instructor 3",
+      "isFeatured": false,
+      "image": "/courses/course3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Course Title 4",
+      "slug": "course-title-4",
+      "description": "Description for course 4.",
+      "price": 93.96,
+      "instructor": "Instructor 4",
+      "isFeatured": true,
+      "image": "/courses/course4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Course Title 5",
+      "slug": "course-title-5",
+      "description": "Description for course 5.",
+      "price": 104.95,
+      "instructor": "Instructor 5",
+      "isFeatured": false,
+      "image": "/courses/course5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Course Title 6",
+      "slug": "course-title-6",
+      "description": "Description for course 6.",
+      "price": 115.94,
+      "instructor": "Instructor 6",
+      "isFeatured": true,
+      "image": "/courses/course6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Course Title 7",
+      "slug": "course-title-7",
+      "description": "Description for course 7.",
+      "price": 126.93,
+      "instructor": "Instructor 7",
+      "isFeatured": false,
+      "image": "/courses/course7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Course Title 8",
+      "slug": "course-title-8",
+      "description": "Description for course 8.",
+      "price": 137.92,
+      "instructor": "Instructor 8",
+      "isFeatured": true,
+      "image": "/courses/course8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Course Title 9",
+      "slug": "course-title-9",
+      "description": "Description for course 9.",
+      "price": 148.91,
+      "instructor": "Instructor 9",
+      "isFeatured": false,
+      "image": "/courses/course9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Course Title 10",
+      "slug": "course-title-10",
+      "description": "Description for course 10.",
+      "price": 159.9,
+      "instructor": "Instructor 10",
+      "isFeatured": true,
+      "image": "/courses/course10.jpg"
+    }
+  ]
+}
