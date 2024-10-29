@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { Spotlight } from "./ui/Spotlight";
+import { Button } from "../components/ui/moving-border";
 
 function HeroSection() {
   return (
@@ -26,11 +27,13 @@ function HeroSection() {
             musicaljourney today. Whether you're a beginner or looking to refine
             your skills, join us to unlock your true potential.
             <div className="mt-4">
-              <Link
-                href="/all-courses"
-                className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
-              >
-                Explore courses
+              <Link href="/all-courses">
+                <Button
+                  borderRadius="1.75rem"
+                  className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
+                >
+                  Explore courses
+                </Button>
               </Link>
             </div>
           </p>
