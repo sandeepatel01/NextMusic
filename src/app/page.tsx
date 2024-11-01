@@ -1,6 +1,7 @@
 import FeaturedSection from "@/components/FeaturedSection";
 import HeroSection from "@/components/HeroSection";
 import ScrollSection from "@/components/ScrollSection";
+import TestimonialCards from "@/components/TestimonialCards";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <HeroSection />
       <FeaturedSection />
       <ScrollSection />
+      <TestimonialCards />
     </main>
   );
 }
